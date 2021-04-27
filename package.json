@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ndjndj/u-db/issues"
   },
-  "homepage": "https://github.com/ndjndj/u-db#readme"
+  "homepage": "https://github.com/ndjndj/u-db#readme",
+  "dependencies": {
+    "express-generator": "^4.16.1"
+  }
 }
