@@ -18,7 +18,8 @@
   "homepage": "https://github.com/ndjndj/u-db#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-generator": "^4.16.1"
+    "express-generator": "^4.16.1",
+    "sequelize": "^6.6.2"
   },
   "devDependencies": {}
 }
